@@ -2,7 +2,7 @@
 
 Repositório temporário.
 
-![Chromion](/img/chromion.webp)
+![Chromion](./chromion.webp)
 
 ---
 
