@@ -33,7 +33,7 @@ A **decentralized Web3 marketplace** that:
    - Generate and issue DCCs
    - Must hold ISO/IEC 17025 accreditation
 
-2. **Industrial Clients**
+2. **Industrial Clients / Hospitals**
 
    - Purchase calibration services
    - Receive DCC NFTs
@@ -49,6 +49,9 @@ A **decentralized Web3 marketplace** that:
    - Provide credential validation via APIs
    - Maintain traceability standards
    - Authority for accreditation verification
+
+5. ** Others ?! **
+   - Health insurance ?
 
 **Marketplace Actors:** - All actors are present for a functional marketplace :hand: :rotating_light:
 
