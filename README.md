@@ -6,7 +6,7 @@ Repositório temporário.
 
 ---
 
-[referencia](https://docs.google.com/document/d/1RsbpH_QD5iW4ipBxzfi6k62v41BartggT89QVxa2OGI/edit?tab=t.0)
+[referência](https://docs.google.com/document/d/1RsbpH_QD5iW4ipBxzfi6k62v41BartggT89QVxa2OGI/edit?tab=t.0)
 
 ---
 
